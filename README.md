@@ -33,7 +33,7 @@ This backend streams OpenAI completions over SSE and adds a local cache layer, l
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ram/openvimai-proxy.git
+git clone https://github.com/ram-rt/openvimai-proxy.git
 cd openvimai-proxy
 ```
 
