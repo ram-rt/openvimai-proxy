@@ -29,7 +29,7 @@ This backend streams OpenAI completions over SSE and adds a local cache layer, l
 - Optional: Docker
 
 
-🧪 Quickstart (local)
+## 🧪 Quickstart (local)
 
 1. Clone the repository:
 ```bash
@@ -39,7 +39,7 @@ cd openvimai-proxy
 
 2. Copy the example environment file:
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 3. Edit .env and insert your actual keys:
